@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://davidguzmanp.github.io/homepage/sitemap.xml
+Sitemap: https://davidguzmanp.github.io/sitemap.xml
